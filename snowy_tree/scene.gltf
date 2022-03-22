@@ -1,0 +1,297 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 65534,
+      "max": [
+        1.344985008239746,
+        3.130852699279785,
+        2.2004013061523438
+      ],
+      "min": [
+        -2.4001553058624268,
+        -2.3633878231048584,
+        -1.5406774282455444
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 786408,
+      "componentType": 5126,
+      "count": 65534,
+      "max": [
+        0.9999921321868896,
+        0.999991238117218,
+        0.9999961256980896
+      ],
+      "min": [
+        -0.9999752640724182,
+        -0.99996417760849,
+        -0.9999976754188538
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 65534,
+      "max": [
+        0.9999561309814453,
+        0.9473137259483337
+      ],
+      "min": [
+        5.0788647058652714e-05,
+        4.815418287762441e-05
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 291243,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1572816,
+      "componentType": 5126,
+      "count": 35641,
+      "max": [
+        0.8930294513702393,
+        3.206507682800293,
+        1.5922067165374756
+      ],
+      "min": [
+        -1.1457879543304443,
+        -0.5118343830108643,
+        -1.5817891359329224
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2000508,
+      "componentType": 5126,
+      "count": 35641,
+      "max": [
+        0.9999517202377319,
+        0.9999886155128479,
+        0.999966025352478
+      ],
+      "min": [
+        -0.9998075366020203,
+        -0.9999635815620422,
+        -0.9998937845230103
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 524272,
+      "componentType": 5126,
+      "count": 35641,
+      "max": [
+        0.999942421913147,
+        0.7893263697624207
+      ],
+      "min": [
+        6.717914220644161e-05,
+        0.4210578203201294
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1164972,
+      "componentType": 5125,
+      "count": 157467,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "maddykrob (https://sketchfab.com/maddykrob)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/snowy-tree-8b44737c4ab14807a4944e8b7a3bb102",
+      "title": "Snowy Tree"
+    },
+    "generator": "Sketchfab-12.67.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 1794840,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 809400,
+      "byteOffset": 1794840,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2428200,
+      "byteOffset": 2604240,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 5032440,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Layer_1_mtl_baseColor.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Layer_1_mtl",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.1602515243902439
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Layer_1_Layer_1_mtl_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Layer_1_Layer_1_mtl_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        -0.9999865293502808,
+        -0.005188670940697193,
+        3.10664428417718e-16,
+        0.0,
+        -0.005188670940697193,
+        0.9999865293502808,
+        1.1101931137742066e-16,
+        0.0,
+        -3.1094918306884267e-16,
+        0.0,
+        -1.0,
+        0.0,
+        -1.057361125946045,
+        0.1095217019319534,
+        0.11226487159729007,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "snowtree.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5
+      ],
+      "name": "Layer_1"
+    },
+    {
+      "mesh": 0,
+      "name": "Layer_1_Layer_1_mtl_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Layer_1_Layer_1_mtl_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}
