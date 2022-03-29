@@ -1,0 +1,11 @@
+Model Information:
+* title:	Leather sofa
+* source:	https://sketchfab.com/3d-models/leather-sofa-00db4b3f0d9c46f9be7a54e58d6c2363
+* author:	Uragan27 (https://sketchfab.com/Uragan27)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Leather sofa" (https://sketchfab.com/3d-models/leather-sofa-00db4b3f0d9c46f9be7a54e58d6c2363) by Uragan27 (https://sketchfab.com/Uragan27) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

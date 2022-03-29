@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lowpoly couch - 2 variants
+* source:	https://sketchfab.com/3d-models/lowpoly-couch-2-variants-2e26a0cacdb94b5d85537a4377f2f111
+* author:	Michal Cavrnoch (https://sketchfab.com/MichalCavrnoch)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lowpoly couch - 2 variants" (https://sketchfab.com/3d-models/lowpoly-couch-2-variants-2e26a0cacdb94b5d85537a4377f2f111) by Michal Cavrnoch (https://sketchfab.com/MichalCavrnoch) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
