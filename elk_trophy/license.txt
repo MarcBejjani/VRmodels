@@ -1,0 +1,11 @@
+Model Information:
+* title:	Elk trophy
+* source:	https://sketchfab.com/3d-models/elk-trophy-680da7cc1ef24b0d83c874178c6576f4
+* author:	Druni (https://sketchfab.com/Druni)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Elk trophy" (https://sketchfab.com/3d-models/elk-trophy-680da7cc1ef24b0d83c874178c6576f4) by Druni (https://sketchfab.com/Druni) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
