@@ -1,0 +1,11 @@
+Model Information:
+* title:	Light Switch - Single
+* source:	https://sketchfab.com/3d-models/light-switch-single-230a2e00c083485a9e2708adab45b9e3
+* author:	Thomas McDougall (https://sketchfab.com/mcdougall57)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Light Switch - Single" (https://sketchfab.com/3d-models/light-switch-single-230a2e00c083485a9e2708adab45b9e3) by Thomas McDougall (https://sketchfab.com/mcdougall57) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
