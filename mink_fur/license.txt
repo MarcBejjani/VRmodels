@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mink fur
+* source:	https://sketchfab.com/3d-models/mink-fur-51105192c9b24e0c876e418bd5e814a8
+* author:	jweinberger (https://sketchfab.com/jweinberger)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mink fur" (https://sketchfab.com/3d-models/mink-fur-51105192c9b24e0c876e418bd5e814a8) by jweinberger (https://sketchfab.com/jweinberger) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
